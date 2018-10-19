@@ -5,6 +5,7 @@
 # Camera
 persist.camera.HAL3.enabled=1
 vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,org.lineageos.snap
+camera.hal1.packagelist=com.whatsapp
 
 # ADB
 ro.debuggable=1
